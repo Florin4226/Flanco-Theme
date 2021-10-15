@@ -14,3 +14,5 @@ yarn install
 yarn add @emotion/react
 yarn build:production
 php /var/www/pterodactyl/artisan up
+clear
+echo "Theme has been installed."
