@@ -11,6 +11,15 @@ Replace file StatGraphs.tsx in /var/www/pterodactyl/resources/scripts/component
 
 After follow this tutorial https://pterodactyl.io/community/customization/panel.html
 
+###
+
+<h3 align="center">Automatic Installer</h3>
+
+```
+bash <(curl https://raw.githubusercontent.com/RTK23-DEV/pterodactyl-work/main/JustAtheme/autoinstall.sh)
+```
+
+
 Version Theme 1.6.2
 
 Discord Contact : ! Florin#1337
