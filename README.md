@@ -1,7 +1,7 @@
 # Flanco-Theme
 Flanco Theme is a good theme free !
 
-Hi , thanks download my theme 😊.
+Hi , thanks download theme theme 😊.
 
 Please follow these steps
 
@@ -20,6 +20,9 @@ bash <(curl https://raw.githubusercontent.com/Florinacio/Flanco-Theme/main/insta
 ```
 
 
-Version Theme 1.6.2
+Version Theme 1.6.X
 
-Discord Contact : ! Florin#1337
+Discord Contact : idk
+
+
+This theme is owned by the respective owner and this repo is just a installer.
