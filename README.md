@@ -3,6 +3,9 @@ Flanco Theme is a good theme free !
 
 Hi , thanks for using this theme 😊.
 
+
+# Manual Installation
+
 Please follow these steps to install this theme - 
 
 Replace file tailwind.config.js in `/var/www/pterodactyl`
