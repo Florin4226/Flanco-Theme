@@ -1,15 +1,15 @@
 # Flanco-Theme
 Flanco Theme is a good theme free !
 
-Hi , thanks download theme theme 😊.
+Hi , thanks for using this theme 😊.
 
-Please follow these steps
+Please follow these steps to install this theme - 
 
-Replace file tailwind.config.js in /var/www/pterodactyl
+Replace file tailwind.config.js in `/var/www/pterodactyl`
 
-Replace file StatGraphs.tsx in /var/www/pterodactyl/resources/scripts/components/server/
+Replace file StatGraphs.tsx in `/var/www/pterodactyl/resources/scripts/components/server/`
 
-After follow this tutorial https://pterodactyl.io/community/customization/panel.html
+After follow this tutorial **https://pterodactyl.io/community/customization/panel.html**
 
 ###
 
@@ -22,7 +22,7 @@ bash <(curl https://raw.githubusercontent.com/RTK23-DEV/Flanco-Theme/main/instal
 
 Version Theme 1.6.X
 
-Discord Contact : idk
+Support - Open Issues
 
 
 This theme is owned by the respective owner and this repo is just a installer.
