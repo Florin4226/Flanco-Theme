@@ -13,6 +13,8 @@ Replace file tailwind.config.js in `/var/www/pterodactyl`
 Replace file StatGraphs.tsx in `/var/www/pterodactyl/resources/scripts/components/server/`
 
 After follow this tutorial **https://pterodactyl.io/community/customization/panel.html**
+<h3 align="center"></h3>
+
 
 ###
 
