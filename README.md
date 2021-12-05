@@ -4,7 +4,7 @@ Flanco Theme is a good theme free !
 Hi , thanks for using this theme 😊.
 
 
-# Manual Installation
+### Manual Installation
 
 Please follow these steps to install this theme - 
 
