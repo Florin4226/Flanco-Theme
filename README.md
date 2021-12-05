@@ -16,7 +16,7 @@ After follow this tutorial https://pterodactyl.io/community/customization/panel.
 <h3 align="center">Automatic Installer</h3>
 
 ```
-bash <(curl https://raw.githubusercontent.com/Florinacio/Flanco-Theme/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/RTK23-DEV/Flanco-Theme/main/install.sh)
 ```
 
 
