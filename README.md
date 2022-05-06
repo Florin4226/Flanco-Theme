@@ -13,4 +13,5 @@ After follow this tutorial https://pterodactyl.io/community/customization/panel.
 
 Version Theme 1.6.2
 
-Discord Contact : Florin💸#0001
+Discord Contact : Fl0r1n💸#9426
+Discord Id Fl0r1n💸#9426
